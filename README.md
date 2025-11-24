@@ -53,9 +53,9 @@ Open the URL printed in the terminal (typically `http://localhost:8501`).
 
 ## Screenshots
 - Dashboard Overview  
-  ![Dashboard Overview](docs/screenshots/overview.svg)
+  ![Dashboard Overview](data/Screenshot 2025-11-23 232758.png)
 - Clustering Scatter  
-  ![Clustering Scatter](docs/screenshots/clustering.svg)
+  ![Clustering Scatter](data/Screenshot 2025-11-23 232838.png)
 
 ## Deployment
 - All paths are relative; artifacts saved under `data/`.  

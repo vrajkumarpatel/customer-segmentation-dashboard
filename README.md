@@ -2,6 +2,7 @@
 
 Author: Vrajkumar Patel  
 Date: 2025-11-23
+Live link - https://vrajkumarpatel-customer-segmentation-dashboard-app-19pydm.streamlit.app/
 
 ## Project Overview
 - Portfolio-ready project that segments e-commerce customers using RFM metrics and K-Means clustering.  

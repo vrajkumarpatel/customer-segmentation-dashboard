@@ -52,11 +52,13 @@ Open the URL printed in the terminal (typically `http://localhost:8501`).
 - Cross-sell and onboarding improvements for low-value segments.
 
 ## Screenshots
+
 - Dashboard Overview  
-  ![Dashboard Overview](assets/Screenshot%202025-11-23%20232758.png)
+  ![Dashboard Overview](docs/screenshots/Screenshot%202025-11-23%20232758.png)
 
 - Clustering Scatter  
-  ![Clustering Scatter](assets/Screenshot%202025-11-23%20232838.png)
+  ![Clustering Scatter](docs/screenshots/Screenshot%202025-11-23%20232838.png)
+
 
 
 ## Deployment

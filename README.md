@@ -5,7 +5,7 @@ Date: 2025-11-23
 Live link - https://vrajkumarpatel-customer-segmentation-dashboard-app-19pydm.streamlit.app/
 
 ## Project Overview
-- Portfolio-ready project that segments e-commerce customers using RFM metrics and K-Means clustering.  
+- Project that segments e-commerce customers using RFM metrics and K-Means clustering.  
 - Objective: identify high-value, loyal, and at-risk customers, and provide actionable insights for marketing and retention.
 
 ## Dataset

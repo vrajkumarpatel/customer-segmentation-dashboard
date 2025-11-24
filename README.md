@@ -53,9 +53,11 @@ Open the URL printed in the terminal (typically `http://localhost:8501`).
 
 ## Screenshots
 - Dashboard Overview  
-  ![Dashboard Overview](data/Screenshot 2025-11-23 232758.png)
+  ![Dashboard Overview](<img width="1903" height="931" alt="Screenshot 2025-11-23 232758" src="https://github.com/user-attachments/assets/da6fa2e0-dae4-4684-9e07-9ae949a36477" />
+)
 - Clustering Scatter  
-  ![Clustering Scatter](data/Screenshot 2025-11-23 232838.png)
+  ![Clustering Scatter](<img width="1906" height="839" alt="Screenshot 2025-11-23 232838" src="https://github.com/user-attachments/assets/0b369591-7f9e-4886-ac92-b54ea8dd98c5" />
+)
 
 ## Deployment
 - All paths are relative; artifacts saved under `data/`.  

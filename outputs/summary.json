@@ -1,0 +1,45 @@
+{
+  "cluster_labels": {
+    "2": "High-value loyal",
+    "1": "Low-value at-risk",
+    "0": "Promising"
+  },
+  "silhouette_results": [
+    {
+      "k": 2,
+      "silhouette": 0.3452318937739334
+    },
+    {
+      "k": 3,
+      "silhouette": 0.3692251392984759
+    },
+    {
+      "k": 4,
+      "silhouette": 0.3121729593404673
+    },
+    {
+      "k": 5,
+      "silhouette": 0.3223848895908054
+    },
+    {
+      "k": 6,
+      "silhouette": 0.2915155561944603
+    },
+    {
+      "k": 7,
+      "silhouette": 0.29592296728992595
+    },
+    {
+      "k": 8,
+      "silhouette": 0.2807034046840349
+    },
+    {
+      "k": 9,
+      "silhouette": 0.26281694338483746
+    },
+    {
+      "k": 10,
+      "silhouette": 0.2576210318161806
+    }
+  ]
+}

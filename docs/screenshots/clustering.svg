@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <rect x="0" y="0" width="1200" height="675" fill="#111827"/>
+  <rect x="40" y="40" width="1120" height="595" rx="16" fill="#ffffff" opacity="0.95"/>
+  <text x="60" y="110" font-family="Segoe UI, Roboto, Arial" font-size="46" fill="#111827" font-weight="700">
+    Clustering — Frequency vs Monetary
+  </text>
+  <text x="60" y="160" font-family="Segoe UI, Roboto, Arial" font-size="24" fill="#374151">
+    Interactive scatter colored by cluster with hover details
+  </text>
+  <rect x="60" y="200" width="1000" height="380" rx="12" fill="#f9fafb" stroke="#e5e7eb"/>
+  <circle cx="200" cy="500" r="8" fill="#2563eb"/>
+  <circle cx="300" cy="420" r="8" fill="#2563eb"/>
+  <circle cx="400" cy="350" r="8" fill="#10b981"/>
+  <circle cx="520" cy="300" r="8" fill="#10b981"/>
+  <circle cx="650" cy="260" r="8" fill="#f59e0b"/>
+  <circle cx="800" cy="210" r="8" fill="#ef4444"/>
+  <text x="80" y="610" font-family="Segoe UI, Roboto, Arial" font-size="18" fill="#374151">Author: Vrajkumar Patel • vrajpatel.info</text>
+</svg>
